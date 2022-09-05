@@ -6,7 +6,7 @@
 <li>Used Socket.io module for a two-way connection between client and server.</li>
 <li>FrontEnd includes a navigation bar, Chat window and a form submit button for sending the messages.</li>
 <li>First of all stored all the DOM elements in a respectives JS variable.</li>
-<li>Used Audio file (ting.mp3) which gives notification on receiving the messages.</li>
+<li>Used Audio file (tone.mp3) which gives notification on receiving the messages.</li>
 <li>Everytime a new user tries to join, first of all ask his/her name and let the server know.</li>
 <li>If a new user joins, receive the event from the server using eventListner.</li>
 <li>Receive message from server using receive function.</li>
