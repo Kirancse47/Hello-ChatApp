@@ -25,10 +25,8 @@
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
 
-# Client 1: Kiran Bari
+# Client 1: Kiran
 ![Screenshot (19)](https://user-images.githubusercontent.com/54286695/188331252-a4deee35-ea86-4949-9f87-069677e70eee.png)
 
-
-
-# Client 2: Raja Bari
+# Client 2: Raja
 ![Screenshot (18)](https://user-images.githubusercontent.com/54286695/188331259-3422e502-eaeb-492d-a386-043fd873eace.png)
